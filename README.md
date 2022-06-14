@@ -3,7 +3,7 @@
 ### Including
 #include "ai.h"  
 ### Prepare
-Open _ai.h_ and change _#define aiarraysize 8_ if you need.  
+Open _ai.h_ and change _#define aiarraysize 128_ if you need.  
 You can use _using namespace AI;_.  
 ### Functions
 - AI::record(double a, double b, int aiconditions[], int arraypos); - record number beetwen _double a, double b_ in _aiconditions[arraypos]_.
