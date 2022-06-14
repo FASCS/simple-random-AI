@@ -1,4 +1,8 @@
 # simple-random-AI
+## Work
+That just taking random number and inserting in array _aiconditions[]_.
+
+
 ## Using 
 ### Including
 #include "ai.h"  
