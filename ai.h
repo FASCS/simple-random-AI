@@ -2,7 +2,7 @@
 #include <random>
 #include <cmath>
 
-#define aiarraysize 8
+#define aiarraysize 128
 #define aiarray int aiconditions[aiarraysize]
 
 
